@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cnt</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img src="../imagens/logo-curso-300x300.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"> 
+            Portifólio Ciências da Natureza - Máterias do 1º, 2º e 3º ano no Senac
+          </a>
+        </div>
+      </nav>
+
+    </a> </nav>
+
+</a> 
+</nav>
+</div>
+
+<div class="consistainer mt-4">
+  <div class="row text-center">
+
+    <!-- Primeiro ano -->
+    <div class="col-md-4 mb-4">
+      <h2>Primeiro ano</h2>
+      <h5>Células procariontes e eucariontes </h5>
+      <div class="card mx-auto" style="width: 24rem; max-width: 100%;">
+        <img src="../imagens/células-eucariontes.webp" class="card-img-top" alt="">
+        <div class="card-body">
+          <p class="card-text">
+            No primeiro ano da escola, eu fiz um trabalho sobre as células eucariontes e procariontes, aprendendo as diferenças principais entre elas. As células procariontes são mais simples e não têm um núcleo definido, o material genético fica solto no citoplasma e elas costumam estar presentes em organismos como as bactérias. Já as eucariontes são mais complexas, possuem um núcleo bem organizado e várias estruturas dentro delas, chamadas organelas, que cuidam de funções específicas, como produzir energia, armazenar substâncias e fabricar proteínas. Esse conteúdo ajudou a entender como as células funcionam e como elas são a base de todos os seres vivos.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Segundo ano -->
+    <div class="col-md-4 mb-4">
+      <h2>Segundo ano</h2>
+      <h5>Pilhas e bateria - Experimento </h5>
+      <div class="card mx-auto" style="width: 24rem; max-width: 100%;">
+        <img src="../imagens/maxresdefault.jpg" class="card-img-top" alt="Pilhas e Baterias">
+        <div class="card-body">
+          <p class="card-text">
+            Nesse trabalho, nós montamos uma pilha caseira usando materiais bem simples do dia a dia: uma moeda, um parafuso, fios, limão e um alicate. A ideia era entender, na prática, como as pilhas funcionam de verdade. A moeda e o parafuso serviram como os eletrodos, que são as partes metálicas responsáveis pelas reações. O limão entrou como eletrólito, já que o ácido cítrico dele permite a passagem de íons e ajuda a gerar eletricidade. Com os fios, conectamos tudo para fechar o circuito e permitir que os elétrons começassem a circular. Basicamente, um dos metais perde elétrons (oxidação) e o outro recebe (redução), e esse movimento é o que gera a corrente elétrica. Mesmo sendo um experimento simples, ele mostra muito bem como a energia química se transforma em energia elétrica e ajuda a entender, de um jeito bem prático, o princípio por trás das pilhas que usamos no dia a dia.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Terceiro ano -->
+    <div class="col-md-4 mb-4">
+      <h2>Terceiro ano</h2>
+      <div class="card mx-auto" style="width: 24rem; max-width: 100%;">
+        <img src="../imagens/tipos-ondas-eletromagneticas-espectro-diferencas.webp" class="card-img-top" alt="Processo de Emissão de Radiação">
+        <div class="card-body">
+          <p class="card-text">
+            No terceiro ano, aprendi sobre radioatividade e radiação eletromagnética e como elas estão presentes em várias áreas do dia a dia. Na comunicação, são usadas em sinais de rádio, TV e internet. No diagnóstico e tratamento de doenças, aparecem em exames como raio X e radioterapia. Nos exames laboratoriais, ajudam na análise de substâncias e na detecção de materiais. Na estética, são aplicadas em lasers e tratamentos de pele. Na informática, aparecem nas transmissões de dados e no funcionamento das telas. E na esterilização de equipamentos e alimentos, eliminam microrganismos com segurança. Esses temas mostraram como a radiação, quando usada de forma controlada, contribui para o avanço da tecnologia, da saúde e da qualidade de vida.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+</body>
+</html>
